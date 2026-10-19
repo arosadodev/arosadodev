@@ -31,6 +31,6 @@ Apasionado por la arquitectura de software, el diseño de bases de datos relacio
 
 ## Estadísticas de GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MitGamer890&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MitGamer890&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MitGamer890&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arosadodev&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arosadodev&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arosadodev&theme=github_dark)
