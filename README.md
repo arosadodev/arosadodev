@@ -37,7 +37,6 @@ Apasionado por la arquitectura de software, el diseño de bases de datos relacio
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arosadodev&theme=github_dark&animation=load" width="100%" alt="Detalles del Perfil" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arosadodev&theme=github_dark&utcOffset=2&animation=load" width="48%" alt="Tiempo Productivo" />
 </div>
 <br>
 <div align="center">
