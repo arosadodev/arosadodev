@@ -27,7 +27,7 @@ Apasionado por la arquitectura de software, el diseño de bases de datos relacio
 
 ## Redes y Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN_AQUI) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/andrés-rosado-peinado-012266445) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arosadodev@emserv.ovh)
 
 ## Estadísticas de GitHub
 
