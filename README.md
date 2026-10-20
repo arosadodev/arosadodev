@@ -7,9 +7,13 @@ Apasionado por la arquitectura de software, el diseño de bases de datos relacio
 ## Qué estoy haciendo ahora
 
 - 🎓 **FCT (Prácticas):** Buscando activamente un equipo en Madrid (modalidad presencial o híbrida) para realizar mis prácticas obligatorias de 420h a partir del 22 de febrero.
+
 - ⚙️ **Desarrollo Backend:** Construyendo APIs RESTful, implementando bases de datos y aplicando patrones de diseño (DAO, MVC) enfocados en código limpio.
+
 - 🔗 **Integración de APIs:** Aplicando los conocimientos adquiridos durante mis prácticas formativas en Cojali (80h), centrados en el consumo y manejo del flujo de datos cliente-servidor.
+
 - 🏗️ **Infraestructura:** Desplegando entornos de desarrollo mediante contenedores y administrando sistemas basados en Linux.
+
 
 ## Tech Stack
 
@@ -27,10 +31,19 @@ Apasionado por la arquitectura de software, el diseño de bases de datos relacio
 
 ## Redes y Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/andrés-rosado-peinado-012266445) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arosadodev@emserv.ovh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-rosado-peinado-012266445) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arosadodev@emserv.ovh)
 
 ## Estadísticas de GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arosadodev&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arosadodev&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arosadodev&theme=github_dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arosadodev&theme=github_dark&animation=load" width="100%" alt="Detalles del Perfil" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arosadodev&theme=github_dark&animation=load" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arosadodev&theme=github_dark&animation=load" width="48%" alt="Lenguajes Principales" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arosadodev&theme=github_dark&utcOffset=2&animation=load" width="48%" alt="Tiempo Productivo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arosadodev&theme=github_dark&animation=load" width="48%" alt="Lenguajes de los Commits" />
+</div>
