@@ -1,40 +1,44 @@
-# Hi, I'm Andrés Rosado Peinado 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:132a1c,100:1b4332&height=180§ion=header&text=Andr%C3%A9s%20Rosado%20Peinado&fontSize=42&fontColor=58a6ff&fontAlignY=42&desc=Junior%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descColor=3fb950&descAlignY=66&descSize=17" alt="Andrés Rosado Peinado" />
+</p>
 
-[![Español](https://img.shields.io/badge/Language-Español-blue?style=flat)](./README.es.md)
+<p align="center">
+  <a href="https://github.com/arosadodev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=3FB950¢er=true&vCenter=true&width=640&lines=Building+RESTful+APIs+with+Java+%26+Spring+Boot;Clean+Architecture+%26+Relational+Databases;Multiplatform+App+Development+(DAM)+Student+%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
+</p>
 
-**Junior Backend Developer | Java & Spring Boot | Multiplatform Application Development Student**
+<p align="center">
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Language-Espa%C3%B1ol-1f6feb?style=flat-square" alt="Español" /></a>
+  <a href="https://www.linkedin.com/in/andrés-rosado-peinado-012266445"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arosadodev@emserv.ovh"><img src="https://img.shields.io/badge/Email-2ea043?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arosadodev&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-Passionate about software architecture, relational database design, and building robust APIs. Currently in my final year of Multiplatform Application Development (DAM) at IES Juan Bosco.
+---
 
-## What I'm Doing Right Now
+## 👨‍💻 About Me & What I'm Doing Right Now
 
-- 🎓 **FCT (Internship):** Actively searching for a team in Madrid (in-person or hybrid) to complete my mandatory 420-hour internship starting February 22nd.
+> Passionate about **software architecture**, **relational database design**, and building **robust APIs**. Currently in my final year of **Multiplatform Application Development (DAM)** at **IES Juan Bosco**.
 
-- ⚙️ **Backend Development:** Building RESTful APIs, designing databases, and applying design patterns (DAO, MVC) focused on clean code.
-
-- 🔗 **API Integration:** Applying skills acquired during my training internship at Cojali (80h), focused on consuming and managing client-server data flow.
-
+- 🎓 **FCT (Internship):** Actively searching for a team in **Madrid** (in-person or hybrid) to complete my mandatory 420-hour internship starting **February 22nd**.
+- ⚙️ **Backend Development:** Building RESTful APIs, designing databases, and applying design patterns (**DAO, MVC**) focused on clean code.
+- 🔗 **API Integration:** Applying skills acquired during my training internship at **Cojali** (80h), focused on consuming and managing client-server data flow.
 - 🏗️ **Infrastructure:** Deploying development environments using containers and managing Linux-based systems.
+- 📫 **Connect with me:** [arosadodev@emserv.ovh](mailto:arosadodev@emserv.ovh)
 
-## Tech Stack
+---
 
-**Languages**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+## 🛠️ Tech Stack
 
-**Backend & Frameworks**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,docker,linux,git,github,postman&perline=5&theme=dark" alt="Tech Stack" />
+</p>
 
-**Data & Infrastructure**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+---
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-rosado-peinado-012266445) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arosadodev@emserv.ovh)
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arosadodev&theme=github_dark&animation=load" width="100%" alt="Profile Details" />
@@ -44,3 +48,8 @@ Passionate about software architecture, relational database design, and building
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arosadodev&theme=github_dark&animation=load" width="48%" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arosadodev&theme=github_dark&animation=load" width="48%" alt="Top Languages" />
 </div>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b4332,50:132a1c,100:0d1117&height=90§ion=footer" alt="" />
+</p>
