@@ -1,6 +1,6 @@
 <!-- Cabecera -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111315,50:261a18,100:e06d53&height=200§ion=header&text=Andr%C3%A9s%20Rosado%20Peinado&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20Junior%20%7C%20Java%20%26%20Spring%20Boot&descColor=e06d53&descAlignY=58&descSize=18" alt="Andrés Rosado Peinado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111315,50:261a18,100:e06d53&height=200§ion=header&text=Andr%C3%A9s%20Rosado%20Peinado&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20Junior%20%7C%20Java%20%E2%80%A2%20Spring%20Boot&descColor=e06d53&descAlignY=58&descSize=18" alt="Andrés Rosado Peinado" />
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 
 ## 👨‍💻 Sobre mí
 
-> *Transformo necesidades en APIs robustas, mantenibles y listas para crecer.*
+> *Transformo necesidades en APIs robustas, mantenibles y listas para crecer.*[cite: 2]
 
 - 🎓 Estudiante de último año de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **IES Juan Bosco**
 - 💼 Buscando equipo en **Madrid** (presencial o híbrido) para realizar mis prácticas obligatorias (FCT - 420h) a partir del **22 de febrero**
 - ⚙️ Especializado en **desarrollo backend**, creando APIs RESTful, diseñando bases de datos relacionales y aplicando patrones de diseño (**DAO, MVC**) con código limpio
 - 🔗 Experiencia previa en prácticas formativas en **Cojali** (80h), enfocadas en integración de APIs y gestión del flujo de datos cliente-servidor
 - 🏗️ Despliegue de entornos de desarrollo mediante contenedores y administración de sistemas basados en **Linux**
-- 📫 ¿Hablamos? Escríbeme a **arosadodev@emserv.ovh** o visita **[arosadodev.emserv.ovh](https://arosadodev.emserv.ovh)**
+- 📫 ¿Hablamos? Escríbeme a **arosadodev@emserv.ovh** o visita **[arosadodev.emserv.ovh](https://arosadodev.emserv.ovh)**[cite: 2]
 
 ## 🛠️ Tecnologías
 
@@ -82,7 +82,4 @@
   <img src="https://streak-stats.demolab.com?user=arosadodev&background=111315&border=2b3036&stroke=2b3036&ring=e06d53&fire=e06d53&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e06d53&sideLabels=e06d53&dates=8b949e&locale=es" alt="Racha de contribuciones" />
 </p>
 
-<!-- Pie -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e06d53,50:261a18,100:111315&height=100§ion=footer" alt="" />
-</p>
+<!--
