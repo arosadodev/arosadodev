@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://arosadodev.emserv.ovh">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=E06D53¢er=true&vCenter=true&width=640&lines=Construyo+soluciones+backend+con+prop%C3%B3sito.;APIs+RESTful+robustas+con+Java+y+Spring+Boot;Arquitectura+Limpia+y+Bases+de+Datos+Relacionales+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=E06D53¢er=true&vCenter=true&width=580&lines=Portfolio+Web+%7C+arosadodev.emserv.ovh;Construyo+soluciones+backend+con+proposito.;Backend+Developer+Junior+%7C+Java+y+Spring+Boot" alt="Portfolio Andrés Rosado" />
   </a>
 </p>
 
