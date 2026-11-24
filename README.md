@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://arosadodev.emserv.ovh">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=E06D53¢er=true&vCenter=true&width=640&lines=Construyo+soluciones+backend+con+prop%C3%B3sito.;APIs+RESTful+robustas+con+Java+%26+Spring+Boot;Arquitectura+Limpia+y+Bases+de+Datos+Relacionales+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=E06D53¢er=true&vCenter=true&width=640&lines=Construyo+soluciones+backend+con+prop%C3%B3sito.;APIs+RESTful+robustas+con+Java+y+Spring+Boot;Arquitectura+Limpia+y+Bases+de+Datos+Relacionales+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,8 +59,8 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arosadodev/MIT-Leds-Control">💡 MIT Leds Control</a></h3>
       <p>Aplicación multiplataforma para el control, comunicación y sincronización remota de sistemas de iluminación LED.</p>
-      <img src="https://img.shields.io/badge/Kotlin%20%2F%20Java-1b1f23?style=flat-square&logo=kotlin&logoColor=E06D53" alt="Kotlin / Java" />
-      <img src="https://img.shields.io/badge/IoT%20%2F%20Cliente--Servidor-1b1f23?style=flat-square&logo=linux&logoColor=E06D53" alt="Cliente-Servidor" />
+      <img src="https://img.shields.io/badge/Kotlin-1b1f23?style=flat-square&logo=kotlin&logoColor=E06D53" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Java-1b1f23?style=flat-square&logo=openjdk&logoColor=E06D53" alt="Java" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://arosadodev.emserv.ovh">🌐 Portfolio & Prácticas COJALI</a></h3>
@@ -82,4 +82,7 @@
   <img src="https://streak-stats.demolab.com?user=arosadodev&background=111315&border=2b3036&stroke=2b3036&ring=e06d53&fire=e06d53&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e06d53&sideLabels=e06d53&dates=8b949e&locale=es" alt="Racha de contribuciones" />
 </p>
 
-<!--
+<!-- Pie -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e06d53,50:261a18,100:111315&height=100§ion=footer" alt="" />
+</p>
