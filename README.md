@@ -3,9 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111315,50:261a18,100:e06d53&height=200§ion=header&text=Andr%C3%A9s%20Rosado%20Peinado&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20Junior%20%7C%20Java%20%E2%80%A2%20Spring%20Boot&descColor=e06d53&descAlignY=58&descSize=18" alt="Andrés Rosado Peinado" />
 </p>
 
+<!-- Letras dinámicas animadas que llevan al portfolio -->
 <p align="center">
   <a href="https://arosadodev.emserv.ovh">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=E06D53¢er=true&vCenter=true&width=580&lines=Portfolio+Web+%7C+arosadodev.emserv.ovh;Construyo+soluciones+backend+con+proposito.;Backend+Developer+Junior+%7C+Java+y+Spring+Boot" alt="Portfolio Andrés Rosado" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=E06D53¢er=true&vCenter=true&width=620&lines=Visita+mi+Portfolio+%3E+arosadodev.emserv.ovh;Construyo+soluciones+backend+con+proposito.;Backend+Developer+Junior+%7C+Java+y+Spring+Boot;Arquitectura+Limpia+y+Bases+de+Datos+Relacionales" alt="Portfolio Andrés Rosado" />
   </a>
 </p>
 
@@ -33,9 +34,9 @@
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql&theme=dark" alt="Lenguajes y bases de datos" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,cpp,arduino&theme=dark" alt="Lenguajes y bases de datos" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman&theme=dark" alt="Herramientas e infraestructura" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,html,css,js,docker,linux,git,github,postman&theme=dark" alt="Herramientas e infraestructura" />
 </p>
 
 ## 🚀 Proyectos destacados
@@ -44,27 +45,37 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arosadodev/LIBRARIUM">📚 LIBRARIUM</a></h3>
-      <p>Sistema integral de gestión bibliotecaria con arquitectura limpia, control de catálogo, préstamos y persistencia relacional.</p>
+      <p>Sistema integral de gestión bibliotecaria con arquitectura limpia (DAO/MVC), control de catálogo, gestión de usuarios, préstamos y persistencia relacional.</p>
       <img src="https://img.shields.io/badge/Java-1b1f23?style=flat-square&logo=openjdk&logoColor=E06D53" alt="Java" />
       <img src="https://img.shields.io/badge/MySQL-1b1f23?style=flat-square&logo=mysql&logoColor=E06D53" alt="MySQL" />
+      <img src="https://img.shields.io/badge/JDBC%20%2F%20DAO-1b1f23?style=flat-square&logo=databricks&logoColor=E06D53" alt="JDBC / DAO" />
+      <img src="https://img.shields.io/badge/Maven-1b1f23?style=flat-square&logo=apachemaven&logoColor=E06D53" alt="Maven" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arosadodev/SGC-Enterprise-Gestion">🏢 SGC Enterprise Gestión</a></h3>
-      <p>Plataforma backend para la gestión empresarial, administración de recursos y control de procesos internos.</p>
+      <p>Plataforma empresarial para la gestión integral de recursos, clientes y procesos internos mediante arquitectura multicapa y API REST.</p>
+      <img src="https://img.shields.io/badge/Java-1b1f23?style=flat-square&logo=openjdk&logoColor=E06D53" alt="Java" />
       <img src="https://img.shields.io/badge/Spring%20Boot-1b1f23?style=flat-square&logo=springboot&logoColor=E06D53" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-1b1f23?style=flat-square&logo=spring&logoColor=E06D53" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/MySQL-1b1f23?style=flat-square&logo=mysql&logoColor=E06D53" alt="MySQL" />
       <img src="https://img.shields.io/badge/API%20REST-1b1f23?style=flat-square&logo=postman&logoColor=E06D53" alt="API REST" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arosadodev/MIT-Leds-Control">💡 MIT Leds Control</a></h3>
-      <p>Aplicación multiplataforma para el control, comunicación y sincronización remota de sistemas de iluminación LED.</p>
+      <p>Aplicación móvil y sistema IoT para el control inalámbrico, efectos dinámicos y sincronización en tiempo real de tiras LED.</p>
       <img src="https://img.shields.io/badge/Kotlin-1b1f23?style=flat-square&logo=kotlin&logoColor=E06D53" alt="Kotlin" />
       <img src="https://img.shields.io/badge/Java-1b1f23?style=flat-square&logo=openjdk&logoColor=E06D53" alt="Java" />
+      <img src="https://img.shields.io/badge/Android-1b1f23?style=flat-square&logo=android&logoColor=3FB950" alt="Android" />
+      <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20Arduino-1b1f23?style=flat-square&logo=arduino&logoColor=E06D53" alt="Arduino" />
+      <img src="https://img.shields.io/badge/Bluetooth%20%2F%20Wi--Fi-1b1f23?style=flat-square&logo=bluetooth&logoColor=E06D53" alt="IoT" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://arosadodev.emserv.ovh">🌐 Portfolio & Prácticas COJALI</a></h3>
-      <p>Integración de APIs y flujo de datos cliente-servidor (80h en Cojali), además del despliegue de mi web personal.</p>
+      <h3><a href="https://arosadodev.emserv.ovh">🌐 Portfolio Web & Prácticas COJALI</a></h3>
+      <p>Desarrollo y despliegue de mi portfolio personal (andres.dev) e integración de APIs y flujo de datos cliente-servidor (80h en Cojali).</p>
+      <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-1b1f23?style=flat-square&logo=html5&logoColor=E06D53" alt="HTML5 / CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-1b1f23?style=flat-square&logo=javascript&logoColor=E06D53" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Docker-1b1f23?style=flat-square&logo=docker&logoColor=3FB950" alt="Docker" />
       <img src="https://img.shields.io/badge/Linux-1b1f23?style=flat-square&logo=linux&logoColor=3FB950" alt="Linux" />
     </td>
